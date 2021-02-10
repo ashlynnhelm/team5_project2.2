@@ -1,3 +1,20 @@
+# Project Description:
+This website is for the TCMG 412-500 Group Project #2, "GitHub and collaboration with code", due 2/11/21.
+
+This website is an about us website. Each team member will state (EDIT) on their post.
+
+The website link is https://github.com/ashlynnhelm/team5_project2.2
+
+# Project Team Members:
+Ashlynn Helm
+
+Alan Cavazos
+
+Hunter Thorsen
+
+Kevin Ngo
+
+
 # minima
 
 *Minima is a one-size-fits-all Jekyll theme for writers*. It's Jekyll's default (and first) theme. It's what you get when you run `jekyll new`.
