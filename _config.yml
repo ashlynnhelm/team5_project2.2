@@ -1,13 +1,13 @@
-title: Your awesome title
-author: GitHub User
+title: About Team 5
+author: Alan Cavazos, Ashlynn Helm, Hunter Thorsen, Kevin Ngo
 email: your-email@domain.com
 description: > # this means to ignore newlines until "twitter_username:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  This is a website for Team 5, you can go into each of our blog posts
+  to learn more about each of us. I hope we get an A in this project because
+  we all worked really hard on it.
 
 # social links
-twitter_username: jekyllrb
+twitter_username: tamu
 github_username:  jekyll
 rss: rss
 # dribbble_username: jekyll
