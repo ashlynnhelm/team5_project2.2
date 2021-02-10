@@ -3,7 +3,9 @@ This website is for the TCMG 412-500 Group Project #2, "GitHub and collaboration
 
 This website is an about us website. Each team member will state (EDIT) on their post.
 
-The website link is https://github.com/ashlynnhelm/team5_project2.2
+The website link is [here](https://ashlynnhelm.github.io/team5_project2.2/)
+
+This website contains posts about each member, and includes their name, hometown, classifaction, and major. They also were given the option to include fun facts, pictures, or information about their hobbies.
 
 # Project Team Members:
 Ashlynn Helm
