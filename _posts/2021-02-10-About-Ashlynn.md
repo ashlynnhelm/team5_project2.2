@@ -7,5 +7,4 @@ I'm a third generation Aggie. My mother's dad was class of 1971, my mom was clas
 Some fun facts about me: I own an ex-racehorse named Wes, and have retrained him to be a jumper. I also have a shelter rescue from Madisonville, Texas named Gunnar.
 
 
-Wes
-![](https://imgur.com/a/kdSC2xm)
+![](pictures/wes_pretty.jpg)
