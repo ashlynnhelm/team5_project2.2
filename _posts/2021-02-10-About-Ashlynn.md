@@ -7,4 +7,4 @@ I'm also a third generation Aggie. My mother's dad was class of 1971, my mom was
 Some fun facts about me: I own an ex-racehorse named Wes, and have retrained him to be a jumper. He is pictured below over our first 2'6" jump. I also have a shelter rescue from Madisonville, Texas named Gunnar. Gunnar is a Husky/Lab mix.
 
 
-![](https://github.com/ashlynnhelm/team5_project2.2/blob/2.5-stable/pictures/wes_jump.jpg)
+<img src="wes_jump.jpg" alt="Wes" width="50%" height="50%">
